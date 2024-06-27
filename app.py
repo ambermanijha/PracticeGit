@@ -7,3 +7,6 @@ print(addition(num1,num2))
 
 def subs(a,b):
     return a-b
+
+def mul(a,b):
+    return a*b
